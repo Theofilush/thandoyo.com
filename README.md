@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # thandoyo.com
-My personal website
-=======
+
+# My personal website
+
 # 👨‍💻 Halo, saya Theofilus Handoyo!
 
 Fullstack Developer | Blockchain Engineer | Tech Enthusiast
@@ -55,4 +55,3 @@ Social media:
 
 > "Build with love. Scale with confidence."  
 > Terima kasih sudah mampir ke halaman saya!
->>>>>>> master
