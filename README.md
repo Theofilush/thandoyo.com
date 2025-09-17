@@ -1,36 +1,36 @@
 # thandoyo.com
 
-👨‍💻 Halo, saya Theofilus Handoyo! This is my personal website.
+👨‍💻 Hello, I’m Theofilus Handoyo! This is my personal website.
 
 > Fullstack Developer | Blockchain Engineer | Tech Enthusiast
 
-## 🧑‍💻 Tentang Saya
+## 🧑‍💻 About Me
 
-I'm a graduate of the Bachelor of Informatics Engineering program at Universitas Pembangunan Jaya, Tangerang Selatan. Involvement skilled in programming, analysis, and solving the problem. I have an interest in administration, system design and programming, application documentation, data analysis, utilizing statistical concepts, software testing, and database management. I keep on roles related to IT, such as IT staff, IT support, IT consultants, web development, mobile development, and software developer.
+I graduated with a Bachelor’s degree in Informatics Engineering from Universitas Pembangunan Jaya, South Tangerang. Skilled in programming, analysis, and problem-solving. I have interests in administration, system design and programming, application documentation, data analysis, applying statistical concepts, software testing, and database management. I pursue roles in IT such as IT staff, IT support, IT consultant, web development, mobile development, and software development.
 
-Previously, I've been a software developer with 2+ years of experience in building tech services, implementing software development life cycles, and maintaining technical and functional documentation. Experienced API developer with over 2 years in the banking industry. In my role, I handle API development with Axway API Policy Management, collaborate with clients and banking teams, and assist in API integration and troubleshooting. I also developed an HR system for employee management using node.js. I started to gain some experience in using Go programming languages as well by finishing the Enigma Camp 2.0 Full-Time Golang Immersive Program.
+Previously, I worked as a software developer with 2+ years of experience building tech services, implementing the software development life cycle, and maintaining technical and functional documentation. I am an experienced API developer with over 2 years in the banking industry. In that role, I managed API development using Axway API Policy Management, collaborated with clients and banking teams, and supported API integration and troubleshooting. I also built an HR system for employee management using Node.js. Additionally, I gained experience in the Go programming language through completing the Enigma Camp 2.0 Full-Time Golang Immersive Program.
 
-Furthermore, I enjoy meeting new people and am always eager to learn new things, enabling me to work both independently and as part of a team.
+I also enjoy meeting new people and am eager to keep learning, which allows me to work both independently and as part of a team.
 
 ## 🛠️ Skills & Tech Stack
 
-**Frontend:** React.js, Next.js, Bootstrap CSS  
-**Backend:** Node.js, Express, REST API, MongoDB  
-**Blockchain:** Sui, Stacks, Move, Clarity  
-**DevOps & Tools:** Git, GitHub Actions, WSL, CLI Debugging  
-**Other:** JWT Auth
+- **Frontend:** React.js, Next.js, Bootstrap CSS
+- **Backend:** Node.js, Express, REST API, MongoDB
+- **Blockchain:** Sui, Stacks, Move, Clarity
+- **DevOps & Tools:** Git, GitHub Actions, WSL, CLI Debugging
+- **Other:** JWT Auth
 
-## 🎯 Tujuan & Aspirasi
+## 🎯 Goals & Aspirations
 
-Saya sedang memperdalam arsitektur fullstack modern dan membangun proyek yang menggabungkan frontend dinamis dengan backend yang aman dan terstruktur. Saya terbuka untuk peluang kerja remote, kolaborasi open-source, dan eksplorasi teknologi baru.
+I am deepening my knowledge of modern fullstack architecture and building projects that combine dynamic frontends with secure, structured backends. I am open to remote job opportunities, open-source collaboration, and exploring new technologies.
 
-## 📫 Kontak & Media Sosial
+## 📫 Contact & Social Media
 
 - LinkedIn: [linkedin.com/in/theofilus-handoyo](https://linkedin.com/in/theofilus-handoyo)
 - GitHub: [github.com/theofilush](https://github.com/theofilush)
 - Website URL: [thandoyo.com](https://thandoyo.com)
-- GitHub Repo: <https://github.com/Theofilush/thandoyo.com>
-- Figma File: <https://www.figma.com/design/68SgvqAjQQ1vhPnMOl3sNQ/thandoyo.com-Personal-Website?node-id=0-1&t=WU8vLKehQRucnPNu-1>
+- GitHub Repo: [https://github.com/Theofilush/thandoyo.com](https://github.com/Theofilush/thandoyo.com)
+- Figma File: [https://www.figma.com/design/68SgvqAjQQ1vhPnMOl3sNQ/thandoyo.com-Personal-Website?node-id=0-1\&t=WU8vLKehQRucnPNu-1](https://www.figma.com/design/68SgvqAjQQ1vhPnMOl3sNQ/thandoyo.com-Personal-Website?node-id=0-1&t=WU8vLKehQRucnPNu-1)
 
 Social media:
 
@@ -40,5 +40,5 @@ Social media:
 - Instagram: [instagram.com/theofilusdf](https://instagram.com/theofilusdf)
 - CV/Resume: [cv.thandoyo.com](https://cv.thandoyo.com)
 
-> "Build with love. Scale with confidence."  
-> Terima kasih sudah mampir ke halaman saya!
+> "Build with love. Scale with confidence."
+> Thank you for visiting my page!
