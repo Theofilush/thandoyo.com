@@ -1,12 +1,8 @@
 # thandoyo.com
 
-# My personal website
+👨‍💻 Halo, saya Theofilus Handoyo! This is my personal website.
 
-# 👨‍💻 Halo, saya Theofilus Handoyo!
-
-Fullstack Developer | Blockchain Engineer | Tech Enthusiast
-
----
+> Fullstack Developer | Blockchain Engineer | Tech Enthusiast
 
 ## 🧑‍💻 Tentang Saya
 
@@ -16,9 +12,7 @@ Previously, I've been a software developer with 2+ years of experience in buildi
 
 Furthermore, I enjoy meeting new people and am always eager to learn new things, enabling me to work both independently and as part of a team.
 
----
-
-## 🛠️ Skill & Teknologi
+## 🛠️ Skills & Tech Stack
 
 **Frontend:** React.js, Next.js, Bootstrap CSS  
 **Backend:** Node.js, Express, REST API, MongoDB  
@@ -26,17 +20,12 @@ Furthermore, I enjoy meeting new people and am always eager to learn new things,
 **DevOps & Tools:** Git, GitHub Actions, WSL, CLI Debugging  
 **Other:** JWT Auth
 
----
-
 ## 🎯 Tujuan & Aspirasi
 
 Saya sedang memperdalam arsitektur fullstack modern dan membangun proyek yang menggabungkan frontend dinamis dengan backend yang aman dan terstruktur. Saya terbuka untuk peluang kerja remote, kolaborasi open-source, dan eksplorasi teknologi baru.
 
----
-
 ## 📫 Kontak & Media Sosial
 
-- Email: tfhandoyo@gmail.com
 - LinkedIn: [linkedin.com/in/theofilus-handoyo](https://linkedin.com/in/theofilus-handoyo)
 - GitHub: [github.com/theofilush](https://github.com/theofilush)
 - Website URL: [thandoyo.com](https://thandoyo.com)
@@ -50,8 +39,6 @@ Social media:
 - Facebook: [facebook.com/theofilus00](https://facebook.com/mhaidarhanif)
 - Instagram: [instagram.com/theofilusdf](https://instagram.com/theofilusdf)
 - CV/Resume: [cv.thandoyo.com](https://cv.thandoyo.com)
-
----
 
 > "Build with love. Scale with confidence."  
 > Terima kasih sudah mampir ke halaman saya!
