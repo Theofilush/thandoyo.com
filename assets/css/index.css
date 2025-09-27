@@ -39,7 +39,6 @@ footer {
   height: 700px;
   background-color: #5a340c;
   color: #ffffff;
-  font-family: cursive;
 
   /* background: url('../image/bg-desk.jpg') no-repeat; */
   background-size: cover;
@@ -78,4 +77,11 @@ footer {
 
 .footer-section {
   background-color: #5a340c;
+}
+
+.view-works {
+  color: black;
+  padding: 8px 12px;
+  border-radius: 5px;
+  background-color: hsl(31, 76.5%, 80%);
 }
