@@ -36,7 +36,7 @@ Social media:
 
 - Telegram: [t.me/Theofilush](https://t.me/Theofilush)
 - Twitter/X: [twitter.com/TheoHandoyo](https://twitter.com/TheoHandoyo)
-- Facebook: [facebook.com/theofilus00](https://facebook.com/mhaidarhanif)
+- Facebook: [facebook.com/theofilus00](https://facebook.com/theofilus00)
 - Instagram: [instagram.com/theofilusdf](https://instagram.com/theofilusdf)
 - CV/Resume: [cv.thandoyo.com](https://cv.thandoyo.com)
 
