@@ -63,6 +63,7 @@ footer {
 .container-body-card {
   display: flex;
   margin: 0 auto;
+  justify-content: center;
 }
 .container-body-blog-button {
   margin: 40px auto;
@@ -120,7 +121,7 @@ footer {
 }
 .column-contact {
   width: 50%;
-  padding: 40px;
+  padding: 60px;
   background: #f3e3d4;
   backdrop-filter: blur(20px);
   border-radius: 24px;
@@ -130,8 +131,10 @@ footer {
 .column-contact > h4 {
   color: #5a340c;
 }
-.column-contact > h6 {
-  color: #5a340c;
+.column-contact > p {
+  margin: 30px auto 10px;
+  color: #8a8484;
+  font-size: 0.9em;
 }
 .social-links {
   display: grid;
@@ -151,7 +154,22 @@ footer {
   color: #dadada;
   text-decoration: none;
   backdrop-filter: blur(20px);
-  /* transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); */
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  font-size: 1rem;
+}
+.btn-hire-me {
+  background: #d09c69;
+  color: #dadada;
+  box-shadow: 0 0 20px rgb(216, 113, 11);
+  margin: 20px auto;
+  padding: 16px 32px;
+  border-radius: 50px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
   font-size: 1rem;
 }
 .footer-section {
